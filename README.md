@@ -1,104 +1,48 @@
-<!-- Cyber Banner -->
+<!-- Centered animated banner (external Giphy link) -->
 <p align="center">
-  <img src="https://i.imgur.com/8fJz0kV.gif" width="700">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF5NzR4NzVyYm45MWYxN3Q0NDlzY2EwODc5a3B4bnRtYnJ6em1xbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnBELA6Mb1TeeOc/giphy.gif" width="700" alt="Elliot Alderson style GIF">
 </p>
 
-<h1 align="center">👋 Hey, I’m Eliot (aka Shark)</h1>
+---
 
-<p align="center">
-<b>Ethical Hacker ▫️ Pentester ▫️ OSINT Enthusiast ▫️ Cybersecurity Builder</b>
-<br>
+# 👋 Hey, I’m Subodh (aka Shark)
+
+**Ethical Hacker ▫️ Pentester ▫️ OSINT Enthusiast ▫️ Cybersecurity Builder**  
 Securing the internet — one vulnerability at a time.
-</p>
 
 ---
 
-### 👾 About Me  
-
-I'm a cybersecurity practitioner focused on ethical hacking, network security, and threat analysis.  
-I build security tools, break vulnerable systems legally, and document my learning along the way.
-
-My mission?  
-**Understand attacks deeply enough to defend against them ruthlessly.**
+### 👾 About Me
+I'm a cybersecurity practitioner focused on ethical hacking, network security, and threat analysis. I build security tools, break vulnerable systems legally, and document my learning along the way.
 
 ---
 
-### 🚀 What I Do  
-
-- 🛡️ Offensive Security & Pentesting  
-- 🧠 Malware, exploit, and vulnerability research  
-- 🕵️‍♂️ OSINT investigations & adversary tracking  
-- ⚙️ Writeups & labs (Metasploitable, CTFs, Web Pentesting)  
-- 🧪 Honeypots & security detection experiments  
+### 🧵 Featured Projects
+- 🦈 **Shark WordPress Honeypot** — Fake WP login trap for brute-force attackers, logs attempts  
+- 🪧 **Metasploitable 2 Pentest Report** — vuln scan, exploitation & documentation  
+- 💻 **Recon & Automation scripts** — Python + Bash tooling (in progress)
 
 ---
 
-### 🧵 Featured Projects  
-
-| Project | Description | Link |
-|---|---|---|
-| 🦈 **Shark WordPress Honeypot** | Fake WP login trap for brute-force attackers, logs attempts | 🔗 *Repo link here* |
-| 🪧 **Metasploitable 2 Pentest Report** | Real-world style vuln scan, exploitation & documentation | 🔗 *Repo link here* |
-| 💻 **Automation + Recon Tools (Coming soon)** | Recon helpers + automation scripts | 🚧 In progress |
+### 🛠️ Tech & Tools
+`BurpSuite` · `Metasploit` · `Nmap` · `Wireshark` · `Python` · `Bash` · `OWASP` . `John The Ripper` . `kali Linux` .  `Hydra` . 
 
 ---
 
-### 🛠️ Tech & Tools  
-
-**Security:**  
-`BurpSuite` · `Metasploit` · `Wireshark` · `Nmap` · `OSINT Framework`  
-
-**Languages & Scripting:**  
-`Python` · `Bash` · `JavaScript`  
-
-**Platforms:**  
-`Kali Linux` · `Ubuntu` · `VirtualBox`  
-
-**Methodologies:**  
-`OWASP` · `MITRE ATT&CK` · `Threat Analysis`
+### 🌱 Current Focus
+Learning advanced exploitation & malware analysis. Building more threat-research projects and publishing pentest writeups.
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"></a><br>
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"></a>
-</p>
-
----
-
-### 🌱 Current Focus  
-
-- Learning advanced exploitation & malware analysis 🧩  
-- Building more threat-research projects 🛠️  
-- Sharing ethical hacking knowledge publicly 📡  
-
----
-
-### 🧭 Philosophy  
-
-> Hack to learn.  
-> Learn to secure.  
-> Build so others don't break.
-
-Ethical hacking isn't rebellion —  
-it's **responsibility with power**.
-
----
-
-### 📬 Connect With Me  
+### 📬 Connect With Me
 
 | Platform | Link |
 |---|---|
-| LinkedIn | 🔗 *Add your link* |
-| X / Twitter | 🔗 *Add your link* |
+| LinkedIn | 🔗 https://www.linkedin.com/in/subodh-s-5a425a349/ |
+| Instagram | 🔗 https://www.instagram.com/cyber_subz001/ |
 | Medium / Blog | 📝 Cyber writeups soon |
 | Discord | 🕶️ *Community coming soon* |
 
 ---
 
-### ☣️ Motto  
-
 **Hack Ethically & Responsibly 🚨**
-
