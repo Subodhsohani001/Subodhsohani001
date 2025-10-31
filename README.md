@@ -1,16 +1,17 @@
-
-
-
-<pre style="text-align:center; font-weight: bold; font-size: 22px;">
+<div style="background-color:#ff0000; padding: 15px; border-radius: 8px;">
+<pre style="text-align:center; font-weight: bold; font-size: 22px; color:white;">
 🛑 BOOTING SHARK SEC ENGINE…
 ████████████████████ 100%
 
-> Loading Mr. Robot theme...
-> Injecting Kali modules...
-> Initializing hack-OS UI...
-> Hello SHARK Welcome,
->root@SHARK$(~)  
+&gt; Loading Mr. Robot theme...
+&gt; Injecting Kali modules...
+&gt; Initializing hack-OS UI...
+&gt; Hello SHARK Welcome,
+&gt;root@SHARK$(~)  
 </pre>
+</div>
+
+---
 
 <!-- Centered animated banner (external Giphy link) -->
 <p align="center">
