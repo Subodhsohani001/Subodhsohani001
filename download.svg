@@ -1,0 +1,18 @@
+<svg width="2000" height="3000" viewBox="0 0 2000 3000" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="rb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"></stop>
+      <stop offset="40%" stop-color="#320000"></stop>
+      <stop offset="70%" stop-color="#8b0000"></stop>
+      <stop offset="100%" stop-color="#ff0000"></stop>
+    </linearGradient>
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3"></feTurbulence>
+      <feColorMatrix type="saturate" values="0"></feColorMatrix>
+      <feBlend mode="overlay" in2="SourceGraphic"></feBlend>
+    </filter>
+  </defs>
+
+  <rect width="2000" height="3000" fill="url(#rb)"></rect>
+  <rect width="2000" height="3000" filter="url(#noise)" opacity="0.10"></rect>
+</svg>
