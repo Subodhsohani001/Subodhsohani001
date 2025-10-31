@@ -33,8 +33,11 @@ I'm a cybersecurity practitioner focused on ethical hacking, network security, a
 ---
 
 ### 🧵 Featured Projects
-- 🦈 **Shark WordPress Honeypot** — Fake WP login trap for brute-force attackers, logs attempts  
+- 🦈 **Shark WordPress Honeypot**https://github.com/Subodhsohani001/Shark-WordPress-Honeypot
+(Demo HoneyPot to Lure Hackers).
+
 - 🪧 **Metasploitable 2 Pentest Report** — vuln scan, exploitation & documentation  
+
 - 💻 **Recon & Automation scripts** — Python + Bash tooling (in progress)
 
 ---
