@@ -1,6 +1,20 @@
+
+
+
+<pre style="text-align:center; font-weight: bold; font-size: 22px;">
+🛑 BOOTING SHARK SEC ENGINE…
+████████████████████ 100%
+
+> Loading Mr. Robot theme...
+> Injecting Kali modules...
+> Initializing hack-OS UI...
+> Hello SHARK Welcome,
+>root@SHARK$(~)  
+</pre>
+
 <!-- Centered animated banner (external Giphy link) -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzF5NzR4NzVyYm45MWYxN3Q0NDlzY2EwODc5a3B4bnRtYnJ6em1xbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnBELA6Mb1TeeOc/giphy.gif" width="700" alt="Elliot Alderson style GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI0dGcydzQ5MXU1cmNuZHN5OTZubnF1Mm01M291MXF4MjRieW40ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="400" alt="Elliot Alderson style GIF">
 </p>
 
 ---
@@ -44,5 +58,8 @@ Learning advanced exploitation & malware analysis. Building more threat-research
 | Discord | 🕶️ *Community coming soon* |
 
 ---
+                       ### Hack Ethically & Responsibly (Or Else YOU KNOW)🚨 ###
 
-**Hack Ethically & Responsibly 🚨**
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRqZHAwcDQ5OTBtbWN5OTd3aHp2NGdtNWpqbG9rdXg1NTE3c292dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width="200" alt="Elliot Alderson style GIF">
+</p>
