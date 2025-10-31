@@ -58,7 +58,7 @@ Learning advanced exploitation & malware analysis. Building more threat-research
 | Discord | 🕶️ *Community coming soon* |
 
 ---
-                       ### Hack Ethically & Responsibly (Or Else YOU KNOW)🚨 ###
+                                     I don’t chase exploits — I build solutions that outlive them. 🛠️🔐 
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXRqZHAwcDQ5OTBtbWN5OTd3aHp2NGdtNWpqbG9rdXg1NTE3c292dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width="200" alt="Elliot Alderson style GIF">
