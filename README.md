@@ -42,7 +42,9 @@ https://github.com/Subodhsohani001/Shark
 https://github.com/Subodhsohani001/Metasploitable-2
 (vuln scan, exploitation & documentation) 
 
-- 💻 **Recon & Automation scripts** — Python + Bash tooling (in progress)
+- 💻 **AI-Red-Team-Copilot**
+https://github.com/Subodhsohani001/AI-Red-Team-Copilot.git
+(Methods suggestion, vuln scan observation)
 
 ---
 
