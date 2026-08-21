@@ -7,7 +7,7 @@
 &gt; Injecting Kali modules...
 &gt; Initializing hack-OS UI...
 &gt; Hello SHARK Welcome,
-&gt;root@SHARK$(~)  
+&gt;root@po1son$(~)  
 </pre>
 </div>
 
@@ -20,7 +20,7 @@
 
 ---
 
-# 👋 Hey, I’m Subodh (aka Shark)
+# 👋 Hey, I’m Subodh (aka Po1son)
 
 **Ethical Hacker ▫️ Pentester ▫️ OSINT Enthusiast ▫️ Cybersecurity Builder**  
 Securing the internet — one vulnerability at a time.
