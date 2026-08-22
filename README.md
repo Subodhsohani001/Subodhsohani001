@@ -47,7 +47,8 @@ https://github.com/Subodhsohani001/AI-Red-Team-Copilot.git
 (Methods suggestion, vuln scan observation)
 
 -🛡️ **Active Directory Compromise — Case Study**
-
+https://github.com/Subodhsohani001/Active-Directory-Compromise-Case-Study.git
+(Kerberoasting & BloodHound enumeration, misconfigured ACL/vulnerable service observation)
 
 ---
 
