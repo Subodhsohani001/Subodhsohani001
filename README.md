@@ -46,6 +46,9 @@ https://github.com/Subodhsohani001/Metasploitable-2
 https://github.com/Subodhsohani001/AI-Red-Team-Copilot.git
 (Methods suggestion, vuln scan observation)
 
+-🛡️ **Active Directory Compromise — Case Study**
+
+
 ---
 
 ### 🛠️ Tech & Tools
